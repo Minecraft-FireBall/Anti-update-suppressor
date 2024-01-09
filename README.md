@@ -1,0 +1,1 @@
+This plugin can be repaired by using an update suppressor manufactured with power rail. The principle is to continuously update the status around the Northeast Rail, thereby repairing the loss of red stone signal in the power rail, but it is still an active bug.
